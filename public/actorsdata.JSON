@@ -1,0 +1,152 @@
+[
+   {
+      "id": "00001",
+      "index": 1,
+      "name": "Serdar Gokhan",
+      "role": "Süleyman Sah ",
+      "age": 65,
+      "gender": "Male",
+      "pic": "https://drive.google.com/file/d/1RTGdtqGgDctGVa6T0mwRNFjjohePg50p/view?usp=sharing",
+      "income": 20000
+   },
+   {
+      "id": "00002",
+      "index": 2,
+      "name": "Hülya Darcan",
+      "role": "Hayme Ana",
+      "age": 60,
+      "gender": "Female",
+      "pic": "https://drive.google.com/file/d/1wpx72mliPFfbLgCXqsGbpq9GU-gl9sVe/view?usp=sharing",
+      "income": 50000
+   },
+   {
+      "id": "00003",
+      "index": 3,
+      "name": "Engin Altan ",
+      "role": "Ertugrul Gazi",
+      "age": 37,
+      "gender": "Male",
+      "pic": "https://drive.google.com/file/d/1wJ-T-vqstpLTfxfH3Y9Nx7ZpRVIlR5zn/view?usp=sharing",
+      "income": 50000
+   },
+   {
+      "id": "00004",
+      "index": 4,
+      "name": "Esra Bilgic",
+      "role": "Halime Hatun",
+      "age": 35,
+      "gender": "Female",
+      "pic": "https://drive.google.com/file/d/1Q5y0BTT5SkpzXAlvTMFvquE3Lm1W_UFA/view?usp=sharing",
+      "income": 45000
+   },
+   {
+      "id": "00005",
+      "index": 5,
+      "name": "Ozman Sirgood",
+      "role": "Ibni Arabi",
+      "age": 37,
+      "gender": "Male",
+      "pic": "https://drive.google.com/file/d/1lx5BCZomaCKCLMrpoKKtg8Ch208IM1f9/view?usp=sharing",
+      "income": 60000
+   },
+   {
+      "id": "00006",
+      "index": 6,
+      "name": "Cem Uçan",
+      "role": "Aliyar Bey",
+      "age": 37,
+      "gender": "Male",
+      "pic": "https://drive.google.com/file/d/1RvE_htFQ2w725VIp1fJmbMOSgMNodwVB/view?usp=sharing",
+      "income": 50000
+   },
+   {
+      "id": "00007",
+      "index": 7,
+      "name": "Cengiz Coskun",
+      "role": "Turgut Alp",
+      "age": 37,
+      "gender": "Male",
+      "pic": "https://drive.google.com/file/d/1FJQFFEAbztuBioS9w-Wr7AgFg_yPv6Ll/view?usp=sharing",
+      "income": 50000
+   },
+   {
+      "id": "00008",
+      "index": 8,
+      "name": "Gulsim Ali",
+      "role": "Aslihan Hatun",
+      "age": 32,
+      "gender": "Female",
+      "pic": "https://drive.google.com/file/d/1CI79DngQvoa8XpsqPrmPIXLPh2vcw6Oy/view?usp=sharing",
+      "income": 45000
+   },
+   {
+      "id": "00009",
+      "index": 9,
+      "name": "Nurettin Sönmez",
+      "role": "Bamsi Beyrek",
+      "age": 37,
+      "gender": "Male",
+      "pic": "https://drive.google.com/file/d/1Apyxo1xpTz6CAhld7wT3MyJxp_ULPuTa/view?usp=sharing",
+      "income": 30000
+   },
+   {
+      "id": "00010",
+      "index": 10,
+      "name": "Kaan Tasaner",
+      "role": "Gündogdu Bey",
+      "age": 38,
+      "gender": "Male",
+      "pic": "https://drive.google.com/file/d/1geyMN-8jMpOTp5HkHMyHwuTHLA6I3uNi/view?usp=sharing",
+      "income": 350000
+   },
+   {
+      "id": "00011",
+      "index": 11,
+      "name": "Didem Balçin",
+      "role": "Selcan Hatun",
+      "age": 37,
+      "gender": "Female",
+      "pic": "https://drive.google.com/file/d/1geyMN-8jMpOTp5HkHMyHwuTHLA6I3uNi/view?usp=sharing",
+      "income": 50000
+   },
+   {
+      "id": "000012",
+      "index": 12,
+      "name": "Sezgin Erdemir",
+      "role": "Sungur Tekin",
+      "age": 37,
+      "gender": "Male",
+      "pic": "https://drive.google.com/file/d/1ZD3Xb7g20HrktPDWX72kI7WPmG9bEfuq/view?usp=sharing",
+      "income": 24000
+   },
+   {
+      "id": "000013",
+      "index": 13,
+      "name": "Celal Al",
+      "role": "Abdurrahman Alp",
+      "age": 40,
+      "gender": "Male",
+      "pic": "https://drive.google.com/file/d/1gCfioYOqivZ4h8-SETNI5x26gUR2Bnd4/view?usp=sharing",
+      "income": 37000
+   },
+   {
+      "id": "000014",
+      "index": 14,
+      "name": "Cavit Çetin Güner",
+      "role": "Dogan Alp",
+      "age": 37,
+      "gender": "Male",
+      "pic": "https://drive.google.com/file/d/1Vo0_7ZUGeIQnAf1bw2rQD9L6ikwNSkoE/view?usp=sharing",
+      "income": 36000
+   },
+   {
+      "id": "000015",
+      "index": 15,
+      "name": "Ayberk Pekcan",
+      "role": " Artuk Bey",
+      "age": 37,
+      "gender": "male",
+      "pic": "https://drive.google.com/file/d/1DmZgPgorqbBHDHn5mHTklmJRCyVyWHk9/view?usp=sharing",
+      "income": 50000
+   }
+]
