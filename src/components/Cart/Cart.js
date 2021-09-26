@@ -18,7 +18,7 @@ const Cart = (props) => {
    const reducer = (previous, current) => previous + current.income;
    const total = list.reduce(reducer, 0);
    return (
-      <div>
+      <div className="cart">
          <h4>List Summary</h4>
          <p>Total actors: {list.length}</p>
          <p>Spend cost: {total}</p>

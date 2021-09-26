@@ -44,13 +44,10 @@ const Datacard = (props) => {
                <b>per episode</b>
             </small>
          </p>
-         <p>
+         <div>
             {facebookIcon} {twitterIcon} {heartIcon}
-         </p>
-         <button
-            onClick={() => props.addList(props.card)}
-            className="btn btn-success"
-         >
+         </div>
+         <button onClick={() => props.addList(props.card)} className="btn">
             {" "}
             {bagIcon} Add to list
          </button>
