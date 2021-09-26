@@ -1,3 +1,15 @@
 .card {
    padding-top: 10px;
+   border-radius: 5px;
+   background: blue;
+   font-size: 1.5rem;
+}
+.card button {
+   font-size: 1.5rem;
+}
+.fab {
+   /* background: #fff; */
+   /* color: #fff; */
+   font-size: 2.5rem;
+   width: 3.5rem;
 }

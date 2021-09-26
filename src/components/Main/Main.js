@@ -13,7 +13,7 @@ const Main = () => {
    }, []);
 
    return (
-      <div className="section">
+      <div className="section container-fluid">
          {/* card container  */}
          <div className="card_container">
             {cards.map((card) => (

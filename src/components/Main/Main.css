@@ -1,11 +1,29 @@
+html {
+   font-size: 62.5%;
+}
 .section {
    display: grid;
-   grid-template-columns: 3fr 1fr;
-   gap: 1.4rem;
-   padding: 1.2rem 9%;
+   grid-template-columns: 4fr 1fr;
+   gap: 1.5rem;
+   padding: 2rem 9%;
 }
 .section .card_container {
    display: grid;
-   grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
-   gap: 1.1rem;
+   grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+   gap: 1.4rem;
+}
+@media (max-width: 991px) {
+   html {
+      font-size: 55%;
+   }
+}
+@media (max-width: 768px) {
+   html {
+      font-size: 55%;
+   }
+}
+@media (max-width: 450px) {
+   html {
+      font-size: 50%;
+   }
 }
