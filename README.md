@@ -2,6 +2,12 @@
 
 Project name with live site [Diriliş: Ertuğrul](https://turkertugrul.netlify.app/).
 
+## Project details bulletpoint
+
+### Find series actor details
+### You can make list of those actor
+### Their salary per episode
+
 ## Available Scripts
 
 In the project directory, you can run:
