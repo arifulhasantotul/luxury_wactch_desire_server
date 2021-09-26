@@ -1,0 +1,11 @@
+.section {
+   display: grid;
+   grid-template-columns: 3fr 1fr;
+   gap: 1.4rem;
+   padding: 1.2rem 9%;
+}
+.section .card_container {
+   display: grid;
+   grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
+   gap: 1.1rem;
+}

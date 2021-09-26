@@ -13,7 +13,7 @@ const Main = () => {
    }, []);
 
    return (
-      <div>
+      <div className="section">
          {/* card container  */}
          <div className="card_container">
             {cards.map((card) => (
@@ -22,7 +22,9 @@ const Main = () => {
          </div>
 
          {/* cart container  */}
-         <div className="cart_container"></div>
+         <div className="cart_container">
+            <h3>Order summary</h3>
+         </div>
       </div>
    );
 };

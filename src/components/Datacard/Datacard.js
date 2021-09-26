@@ -1,26 +1,30 @@
 import React from "react";
-import "./Datacard";
+import "./Datacard.css";
 
 const Datacard = (props) => {
    console.log(props.card);
    const { name, pic, age, income, role } = props.card;
+
    return (
-      <div>
-         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
-            <div class="col">
-               <div class="card">
-                  <img src={pic} class="card-img-top" alt="..." />
-                  <div class="card-body">
-                     <h5 class="card-title">Card title</h5>
-                     <p class="card-text">
-                        This is a longer card with supporting text below as a
-                        natural lead-in to additional content. This content is a
-                        little bit longer.
-                     </p>
-                  </div>
-               </div>
-            </div>
-         </div>
+      <div className="card text-center">
+         <img
+            src={pic}
+            style={{
+               width: "120px",
+               height: "120px",
+               margin: "0 auto",
+               borderRadius: "50%",
+               marginBottom: "10px",
+            }}
+            className="img-fluid"
+            alt=""
+         />
+         <p>Actor: {name}</p>
+         <p>Character: {role}</p>
+         <p>Age: {age}</p>
+         <p>
+            Salary: €{income} <small>per episode</small>
+         </p>
       </div>
    );
 };
