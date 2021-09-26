@@ -37,7 +37,7 @@ const Main = () => {
 
          {/* cart container  */}
          <div className="cart_container">
-            <Cart list={list}></Cart>
+            <Cart lists={list}></Cart>
          </div>
       </div>
    );

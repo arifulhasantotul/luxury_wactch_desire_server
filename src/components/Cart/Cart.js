@@ -1,34 +1,22 @@
 import React from "react";
+import SmallCard from "../SmallCard/SmallCard";
 import "./Cart.css";
 
 const Cart = (props) => {
-   console.log(props);
-   const { list } = props;
-
-   let actorName;
-   let actorImg;
-   let actorCost;
-   for (const actor of list) {
-      actorName = actor.name;
-      actorImg = actor.pic;
-      actorCost = actor.income;
-   }
-   // console.log(actorName);
+   const { lists } = props;
 
    const reducer = (previous, current) => previous + current.income;
-   const total = list.reduce(reducer, 0);
+   const total = lists.reduce(reducer, 0);
    return (
       <div className="cart">
          <h3>List Summary</h3>
          <hr />
-         <h4>Total actors: {list.length}</h4>
+         <h4>Total actors: {lists.length}</h4>
          <h4>Spend cost: € {total}</h4>
-         <div className="sm_card">
-            <img className="img-fluid p-xl-4" src={actorImg} alt="" />
-            <div className="sm_card_details">
-               <h5>{actorName}</h5>
-               <h5>{actorCost}</h5>
-            </div>
+         <div className="sm_card_container">
+            {lists.map((list) => (
+               <SmallCard key={list.id} list={list}></SmallCard>
+            ))}
          </div>
       </div>
    );

@@ -20,17 +20,7 @@
    color: var(--black);
    font-size: 1.5rem;
 }
-.sm_card {
-   display: grid;
-   grid-template-columns: repeat(auto-fit, minmax(5rem, 1fr));
-   padding-top: 0.5rem;
-}
-.sm_card_details {
-   margin: auto 0;
-}
-.sm_card_details h5 {
-   font-size: 1.5rem;
-}
+
 @media (max-width: 991px) {
    .cart {
       padding: 1.5rem;
@@ -38,8 +28,4 @@
    .sm_card_details h5 {
       padding-left: 2px;
    }
-}
-@media (max-width: 768px) {
-}
-@media (max-width: 450px) {
 }

@@ -12,7 +12,7 @@ const Datacard = (props) => {
    const heartIcon = <i className="fas fa-heart"></i>;
 
    // destructuring array of object
-   const { name, pic, age, income, role } = props.card;
+   const { name, pic, age, income, role, birthplace } = props.card;
 
    return (
       <div className="card text-center">
@@ -44,6 +44,7 @@ const Datacard = (props) => {
                <b>per episode</b>
             </small>
          </p>
+         <p>Birthplace: {birthplace}</p>
          <div>
             {facebookIcon} {twitterIcon} {heartIcon}
          </div>

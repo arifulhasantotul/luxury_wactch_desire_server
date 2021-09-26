@@ -5,6 +5,7 @@
       "name": "Serdar Gokhan",
       "role": "Süleyman Sah ",
       "age": 65,
+      "birthplace": "Turkey",
       "gender": "Male",
       "pic": "https://m.media-amazon.com/images/M/MV5BOWEwZTBlYTQtY2FhNS00YTJiLWFhMTUtZjkyZDhlZWVlN2YxXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY100_CR25,0,100,100_AL_.jpg",
       "income": 20000
@@ -15,6 +16,7 @@
       "name": "Hülya Darcan",
       "role": "Hayme Ana",
       "age": 60,
+      "birthplace": "Turkey",
       "gender": "Female",
       "pic": "https://m.media-amazon.com/images/M/MV5BMjU2NWY3NWItNTJmYS00YWIxLTk3MzYtMWYyNjM5ZWMzNmI1XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY100_CR25,0,100,100_AL_.jpg",
       "income": 50000
@@ -25,6 +27,7 @@
       "name": "Engin Altan ",
       "role": "Ertugrul Gazi",
       "age": 37,
+      "birthplace": "Turkey",
       "gender": "Male",
       "pic": "https://m.media-amazon.com/images/M/MV5BZjRmOGRjOGItOGEzMC00YzIwLWIyNDItN2IxNmZjYzRlZjc0XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY100_CR25,0,100,100_AL_.jpg",
       "income": 50000
@@ -35,6 +38,7 @@
       "name": "Esra Bilgic",
       "role": "Halime Hatun",
       "age": 35,
+      "birthplace": "Turkey",
       "gender": "Female",
       "pic": "https://m.media-amazon.com/images/M/MV5BNGM2MTUzODEtZDliMS00MjliLWI0MGYtMTIwNjZhN2E5YjI3XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UX100_CR0,0,100,100_AL_.jpg",
       "income": 45000
@@ -45,6 +49,7 @@
       "name": "Ozman Sirgood",
       "role": "Ibni Arabi",
       "age": 37,
+      "birthplace": "Turkey",
       "gender": "Male",
       "pic": "https://m.media-amazon.com/images/M/MV5BMjI4MzYyOTIyNV5BMl5BanBnXkFtZTgwOTA3MTgwMDI@._V1_UX100_CR0,0,100,100_AL_.jpg",
       "income": 60000
@@ -55,6 +60,7 @@
       "name": "Cem Uçan",
       "role": "Aliyar Bey",
       "age": 37,
+      "birthplace": "Turkey",
       "gender": "Male",
       "pic": "https://m.media-amazon.com/images/M/MV5BOWE3ZWEzYWUtZjBhZS00NzQ0LTkyMzgtNmQ0Mzg4YTUyYmMxXkEyXkFqcGdeQXVyNjk2NzAxMDE@._V1_UY100_CR25,0,100,100_AL_.jpg",
       "income": 50000
@@ -65,6 +71,7 @@
       "name": "Cengiz Coskun",
       "role": "Turgut Alp",
       "age": 37,
+      "birthplace": "Turkey",
       "gender": "Male",
       "pic": "https://m.media-amazon.com/images/M/MV5BMGM2ZmE4YzMtOTBmNS00NmE4LWI4NTUtMjg3ZTJjZDYwZTc5XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY100_CR26,0,100,100_AL_.jpg",
       "income": 50000
@@ -75,6 +82,7 @@
       "name": "Gulsim Ali",
       "role": "Aslihan Hatun",
       "age": 32,
+      "birthplace": "Turkey",
       "gender": "Female",
       "pic": "https://m.media-amazon.com/images/M/MV5BOWIzMDBjMDQtMWQwNi00N2Y4LWFjYWYtNTg2NTdlNGNmNDMwXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY100_CR25,0,100,100_AL_.jpg",
       "income": 45000
@@ -85,6 +93,7 @@
       "name": "Nurettin Sönmez",
       "role": "Bamsi Beyrek",
       "age": 37,
+      "birthplace": "Turkey",
       "gender": "Male",
       "pic": "https://m.media-amazon.com/images/M/MV5BYmQ5MjQyNTItZWUwYS00YjA1LTllNDQtZjJkNmZiNzMxNmY1XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY100_CR25,0,100,100_AL_.jpg",
       "income": 30000
@@ -95,6 +104,7 @@
       "name": "Kaan Tasaner",
       "role": "Gündogdu Bey",
       "age": 38,
+      "birthplace": "Turkey",
       "gender": "Male",
       "pic": "https://m.media-amazon.com/images/M/MV5BZDg4YzExMTYtODI0YS00OWZjLTllZDktMDdmZmU4MTM5ZmIwXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY100_CR25,0,100,100_AL_.jpg",
       "income": 350000
@@ -105,6 +115,7 @@
       "name": "Didem Balçin",
       "role": "Selcan Hatun",
       "age": 37,
+      "birthplace": "Turkey",
       "gender": "Female",
       "pic": "https://m.media-amazon.com/images/M/MV5BN2I4ZjA0ZTUtYjJhOS00MGYyLWJkZGItYmZjNDAxNjNhNjJjXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY100_CR25,0,100,100_AL_.jpg",
       "income": 50000
@@ -115,6 +126,7 @@
       "name": "Sezgin Erdemir",
       "role": "Sungur Tekin",
       "age": 37,
+      "birthplace": "Turkey",
       "gender": "Male",
       "pic": "https://m.media-amazon.com/images/M/MV5BMjBlNWNlNTAtNmYzMS00MGJkLTgxOGMtYTFlNTI2NTdkOTUxXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY100_CR25,0,100,100_AL_.jpg",
       "income": 24000
@@ -125,6 +137,7 @@
       "name": "Celal Al",
       "role": "Abdurrahman Alp",
       "age": 40,
+      "birthplace": "Turkey",
       "gender": "Male",
       "pic": "https://m.media-amazon.com/images/M/MV5BMmJkMzkwZjQtMDhjNy00MDZlLTljNjgtMTdiNTRmYmQ1YzZkXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY100_CR25,0,100,100_AL_.jpg",
       "income": 37000
@@ -135,6 +148,7 @@
       "name": "Cavit Çetin Güner",
       "role": "Dogan Alp",
       "age": 37,
+      "birthplace": "Turkey",
       "gender": "Male",
       "pic": "https://m.media-amazon.com/images/M/MV5BYmMyYmQ0MDctYjBkNC00OGExLTk5NTUtZDA0MThjMGE1NDhmXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY100_CR25,0,100,100_AL_.jpg",
       "income": 36000
@@ -145,6 +159,7 @@
       "name": "Ayberk Pekcan",
       "role": " Artuk Bey",
       "age": 37,
+      "birthplace": "Turkey",
       "gender": "male",
       "pic": "https://m.media-amazon.com/images/M/MV5BMzQzOTkzMTItZDgzYi00ZGU5LThiMjQtNmZlNmM2ZmZiNzdmXkEyXkFqcGdeQXVyNTcwOTIzNzM@._V1_UY100_CR39,0,100,100_AL_.jpg",
       "income": 50000

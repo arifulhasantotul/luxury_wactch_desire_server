@@ -1,0 +1,11 @@
+.small_card {
+   display: grid;
+   grid-template-columns: repeat(auto-fit, minmax(5rem, 1fr));
+   padding-top: 0.5rem;
+}
+.sm_card_details {
+   margin: auto 0;
+}
+.sm_card_details h5 {
+   font-size: 1.5rem;
+}
