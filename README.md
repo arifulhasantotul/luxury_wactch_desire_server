@@ -1,6 +1,6 @@
 # First Turkish Series App with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project name with live site [Diriliş: Ertuğrul](https://turkertugrul.netlify.app/).
 
 ## Available Scripts
 
