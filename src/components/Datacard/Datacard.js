@@ -7,8 +7,9 @@ const Datacard = (props) => {
    // console.log(props.card);
    const bagIcon = <FontAwesomeIcon icon={faShoppingBag} />;
 
-   const facebookIcon = <i className="fab fa-facebook-square"></i>;
-   const twitterICon = <i className="fab fa-twitter-square"></i>;
+   const facebookIcon = <i className="fab fa-facebook-f"></i>;
+   const twitterIcon = <i className="fab fa-twitter"></i>;
+   const heartIcon = <i className="fas fa-heart"></i>;
 
    // destructuring array of object
    const { name, pic, age, income, role } = props.card;
@@ -44,7 +45,7 @@ const Datacard = (props) => {
             </small>
          </p>
          <p>
-            {facebookIcon} {twitterICon}
+            {facebookIcon} {twitterIcon} {heartIcon}
          </p>
          <button
             onClick={() => props.addList(props.card)}

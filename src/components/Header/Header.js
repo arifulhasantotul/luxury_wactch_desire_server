@@ -6,7 +6,7 @@ const Header = () => {
       <div className="header container-fluid text-center py-4">
          <div className="d-flex justify-content-between align-items-center">
             <h3>
-               Actors of <span> Diriliş: Ertuğrul </span>
+               <span> |Y| </span> Diriliş: Ertuğrul
             </h3>
             <h3>
                Total Budget : <span> €2000000</span>
