@@ -46,10 +46,26 @@ html {
    html {
       font-size: 55%;
    }
+   .section {
+      grid-template-columns: 4fr 1fr;
+      padding: 0 5%;
+      padding-top: 24rem;
+   }
+   .section .card_container {
+      grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+   }
 }
 @media (max-width: 768px) {
    html {
-      font-size: 55%;
+      font-size: 53%;
+   }
+   .section {
+      grid-template-columns: 3fr 1fr;
+      padding: 0 5%;
+      padding-top: 24rem;
+   }
+   .section .card_container {
+      grid-template-columns: repeat(auto-fit, minmax(22rem, 1fr));
    }
 }
 @media (max-width: 450px) {

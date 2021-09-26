@@ -29,6 +29,9 @@
    border-radius: 0.5rem;
    cursor: pointer;
    padding: 0.8rem 3rem;
+   font-weight: 500;
+   letter-spacing: 2px;
+   transition: all 0.01s linear;
 }
 .card button:hover {
    background: var(--green);

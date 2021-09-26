@@ -19,18 +19,15 @@ const Cart = (props) => {
    const total = list.reduce(reducer, 0);
    return (
       <div className="cart">
-         <h4>List Summary</h4>
-         <p>Total actors: {list.length}</p>
-         <p>Spend cost: {total}</p>
-         <div style={{ display: "flex" }}>
-            <img
-               src={actorImg}
-               style={{ width: "5rem", height: "5rem" }}
-               alt=""
-            />
-            <div>
-               <p>{actorName}</p>
-               <p>{actorCost}</p>
+         <h3>List Summary</h3>
+         <hr />
+         <h4>Total actors: {list.length}</h4>
+         <h4>Spend cost: € {total}</h4>
+         <div className="sm_card">
+            <img className="img-fluid p-xl-4" src={actorImg} alt="" />
+            <div className="sm_card_details">
+               <h5>{actorName}</h5>
+               <h5>{actorCost}</h5>
             </div>
          </div>
       </div>
