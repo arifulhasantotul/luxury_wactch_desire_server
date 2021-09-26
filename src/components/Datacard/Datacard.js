@@ -4,12 +4,13 @@ import React from "react";
 import "./Datacard.css";
 
 const Datacard = (props) => {
-   console.log(props.card);
+   // console.log(props.card);
    const bagIcon = <FontAwesomeIcon icon={faShoppingBag} />;
 
-   const facebookIcon = <i class="fab fa-facebook-square"></i>;
-   const twitterICon = <i class="fab fa-twitter-square"></i>;
+   const facebookIcon = <i className="fab fa-facebook-square"></i>;
+   const twitterICon = <i className="fab fa-twitter-square"></i>;
 
+   // destructuring array of object
    const { name, pic, age, income, role } = props.card;
 
    return (
@@ -45,7 +46,13 @@ const Datacard = (props) => {
          <p>
             {facebookIcon} {twitterICon}
          </p>
-         <button className="btn btn-success"> {bagIcon} Add to list</button>
+         <button
+            onClick={() => props.addList(props.card)}
+            className="btn btn-success"
+         >
+            {" "}
+            {bagIcon} Add to list
+         </button>
       </div>
    );
 };
