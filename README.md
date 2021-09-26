@@ -4,9 +4,9 @@ Project name with live site [Diriliş: Ertuğrul](https://turkertugrul.netlify.a
 
 ## Project details bulletpoint
 
-### Find series actor details
-### You can make list of those actor
-### Their salary per episode
+### `Find series actor details`
+### `You can make list of those actor`
+### `Their salary per episode`
 
 ## Available Scripts
 
